@@ -1,0 +1,13 @@
+[book]
+authors = ["backendcloud"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Golang进阶"
+
+[output.html]
+additional-css = ["style.css"]
+additional-js = ["sidebar.js"]
+
+
+# [output.pdf]
